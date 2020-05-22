@@ -11,10 +11,9 @@
 
 
 
-
-[Watch video tutorial on deploying](https://youtu.be/XmvdDHiIDb4)
 # Installing
-Join https://t.me/FRIDAYSUPPORTOFFICIAL for updates and tuts
+
+
 ### The Easy Way
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
@@ -23,7 +22,7 @@ Join https://t.me/FRIDAYSUPPORTOFFICIAL for updates and tuts
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/xditya/TeleBot
+git clone https://github.com/midhunkm1294-bit/FRIDAY
 cd TeleBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
