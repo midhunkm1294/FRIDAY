@@ -149,7 +149,7 @@
 
    "value": "",
 
-   "required": True
+   "required": true
 
   },
 
@@ -179,7 +179,7 @@
 
    "value": "",
 
-   "required": True
+   "required": true 
 
   },
 
