@@ -195,11 +195,11 @@
 
   "ALIVE_NAME": {
 
-   "description": "Your Telegram Username. ",
+   "description": "Your Telegram Username like @Mariodevs. ",
 
    "value": "",
 
-   "required": false
+   "required": true 
 
   },
   
